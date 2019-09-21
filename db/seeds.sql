@@ -29,4 +29,6 @@ INSERT INTO burgers
     (burger_name)
 VALUES
     ("Wild Barramundi Burger");
-
+    
+        SELECT *
+    FROM burgers;
