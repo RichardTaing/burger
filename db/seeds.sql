@@ -3,30 +3,30 @@ USE burgers_db;
 INSERT INTO burgers
     (burger_name)
 VALUES
-    ("Ramen Burger")
+    ("Ramen Burger");
 
 INSERT INTO burgers
     (burger_name)
 VALUES
-    ("Black Soft Shell Chilli Crab Burger")
+    ("Black Soft Shell Chilli Crab Burger");
 
 INSERT INTO burgers
     (burger_name)
 VALUES
-    ("Pork Belly Burger")
+    ("Pork Belly Burger");
 
 INSERT INTO burgers
     (burger_name)
 VALUES
-    ("Southern Fried Chicken Burger")
+    ("Southern Fried Chicken Burger");
 
 INSERT INTO burgers
     (burger_name)
 VALUES
-    ("The Good Morning Breakfast Burger")
+    ("The Good Morning Breakfast Burger");
 
 INSERT INTO burgers
     (burger_name)
 VALUES
-    ("Wild Barramundi Burger")
+    ("Wild Barramundi Burger");
 
