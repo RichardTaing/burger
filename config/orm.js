@@ -1,4 +1,4 @@
-var connection = require("./connection.js.js");
+var connection = require("./connection.js");
 //Select All ORM
 var orm = {
   selectAll: function(table, callback) {
