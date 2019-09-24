@@ -12,6 +12,7 @@ CREATE TABLE burgers
 burger_name VARCHAR
     (500) NOT NULL,
 devoured BOOLEAN NOT NULL DEFAULT 0, 
+createdAt TIMESTAMP NOT NULL,
 PRIMARY KEY
     (id)
 );
